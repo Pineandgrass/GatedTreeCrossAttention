@@ -84,3 +84,22 @@ python scripts/test_gtca.py \
 If you make use of the code in this repository, please cite the following papers:
 
 
+```bibtex
+@inproceedings{gao-etal-2026-gated,
+    title = "Gated Tree Cross-Attention for Checkpoint-Compatible Syntax Injection in Decoder-Only {LLM}s",
+    author = "Gao, Xinyu  and
+      Wang, Shaonan  and
+      Ding, Nai",
+    editor = "Liakata, Maria  and
+      Moreira, Viviane P.  and
+      Zhang, Jiajun  and
+      Jurgens, David",
+    booktitle = "Proceedings of the 64th Annual Meeting of the {A}ssociation for {C}omputational {L}inguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2026",
+    address = "San Diego, California, United States",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.acl-long.1629/",
+    pages = "35274--35288",
+    ISBN = "979-8-89176-390-6"
+}

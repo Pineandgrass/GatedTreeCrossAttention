@@ -1,6 +1,6 @@
 # GTCA: Gated-Tree Cross-Attention for Language Models
 
-Code for the paper "Gated Tree Cross-Attention for Checkpoint-Compatible Syntax Injection in Decoder-Only LLMs", presented at ACL 2026 main conference. See [the paper](https://aclanthology.org/2026.acl-long.1629.pdf)
+Code for the paper "Gated Tree Cross-Attention for Checkpoint-Compatible Syntax Injection in Decoder-Only LLMs", presented at ACL 2026 main conference. See [the paper](https://aclanthology.org/2026.acl-long.1629.pdf).
 
 ## Overview
 
